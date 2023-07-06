@@ -7,7 +7,7 @@ const app = new cdk.App()
 
 new GithubOidcCdkStack(app, 'GithubOidcCdkStack', {
 	env: {
-		account: '842537737558',
+		account: '1234567890',
 		region: 'us-east-1',
 	},
 })
