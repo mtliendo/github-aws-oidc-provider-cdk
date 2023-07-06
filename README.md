@@ -1,4 +1,7 @@
 # CDK OpenID Connect Provider
+![Screenshot 2023-07-06 at 5 50 28 AM](https://github.com/mtliendo/github-aws-oidc-provider-cdk/assets/5106417/50b517df-d522-4e8e-abf8-3521a39659b1)
+
+
 
 This is a CDK (AWS Cloud Development Kit) stack that creates an OpenID Connect (OIDC) provider using the AWS CDK in TypeScript. This is not only useful to avoid manually click through the AWS console (clickops), but mainly to prevent storing long-lived credentials in things like GitHub Actions.
 
